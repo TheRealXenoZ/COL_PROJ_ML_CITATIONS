@@ -1,0 +1,14 @@
+.open phiscls1
+
+
+CREATE TABLE firstset
+(
+rpid varchar(10) NOT NULL,
+s1 char(1),s2 char(1),s3 char(1),s4 char(1),s5 char(1)
+);
+
+CREATE TABLE secondset
+(
+rpid varchar(10) NOT NULL,
+s1 char(1),s2 char(1),s3 char(1),s4 char(1),s5 char(1)
+);

@@ -1,0 +1,18 @@
+
+Dash(-)symbol is occuring in the URL(Type 1 for Yes, 0 for No)
+No. of dots in the URL(Type -1 for 2 dots, 0 for 3 dots, 1 for more than 3)
+Website existing for less than one year(Type 1 for Yes, 0 for No)
+Favicon loaded from a different domain(Type 1 for Yes, 0 for No)
+HTTPS is added to the domain part of the URL(Type 1 for Yes, 0 for No)
+
+URL-length( -1 if less than 54, 0 if in between 54 to 75, 1 if greater than 75)
+URL containing double slash at a different(not in 6th/7th) position(Type 1 for Yes, 0 for No)
+IP Address is used as part of URL(Type 1 for Yes, 0 for No)
+Shortened URL(Type 1 for Yes, 0 for No)
+URL having @ symbol(Type 1 for Yes, 0 for No)
+
+
+
+
+
+
